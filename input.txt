@@ -1,0 +1,4 @@
+demo-docker-dev-local/webgoat/latest/manifest.json
+petclinicmonolith-maven-dev-local/org/springframework/samples/spring-petclinic/3.1.6-SNAPSHOT/spring-petclinic-3.1.6-SNAPSHOT.jar
+dockerhub-remote-cache/library/nginx/sha256__a11239a63fc962c2ef5b8d528c54b91c28ac566b7899aa626bb085e58a70202c/manifest.json
+dockerhub-remote-cache/library/openjdk/sha256__779635c0c3d23cc8dbab2d8c1ee4cf2a9202e198dfc8f4c0b279824d9b8e0f22/
